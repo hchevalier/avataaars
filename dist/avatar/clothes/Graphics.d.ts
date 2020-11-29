@@ -26,6 +26,10 @@ export declare class Diamond extends React.Component<Props> {
     static optionValue: string;
     render(): JSX.Element;
 }
+export declare class Doctolib extends React.Component<Props> {
+    static optionValue: string;
+    render(): JSX.Element;
+}
 export declare class Hola extends React.Component<Props> {
     static optionValue: string;
     render(): JSX.Element;
